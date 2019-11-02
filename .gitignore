@@ -2,3 +2,5 @@ venv
 tmp
 AssignmentA.pdf
 *.npy
+
+task*result
